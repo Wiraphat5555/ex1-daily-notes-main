@@ -1,1 +1,1 @@
-# ex1-daily-notes-main
+# ex1-daily-notes
